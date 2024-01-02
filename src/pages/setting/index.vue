@@ -3,7 +3,7 @@
     <div class="aside">
       <div class="child-1">
         <p class="child-1-text">
-          GPT-Meeting
+          AI-Meeting
         </p>
         <el-text size="small">
           Communicate with GPT.

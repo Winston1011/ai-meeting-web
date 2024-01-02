@@ -55,13 +55,13 @@ export default defineConfig({
     // 设置代理
     proxy: {
       '/api': {
-        target: 'http://ai-meeting-server:8310',
+        target: 'http://localhost:8310',
         // target: 'http://0.0.0.0:8310',
         changeOrigin: true
         // rewrite: (path: string) => path.replace(/^\/api/, '')
       },
       '/image': {
-        target: 'http://ai-meeting-server:8310',
+        target: 'http://localhost:8310',
         // target: 'http://0.0.0.0:8310',
         changeOrigin: true
         // rewrite: (path: string) => path.replace(/^\/api/, '')

@@ -1,9 +1,3 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Date: 2023-05-19 20:02:19
- * @LastEditTime: 2023-07-09 15:08:36
--->
 <template>
   <div class="box-card">
     <el-scrollbar>

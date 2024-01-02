@@ -1,10 +1,3 @@
-<!-- eslint-disable vue/multi-word-component-names -->
-<!--
- * @Descripttion: 
- * @version: 
- * @Date: 2023-04-12 18:24:40
- * @LastEditTime: 2023-07-09 15:09:41
--->
 <template>
   <div style="width: 100%; padding: 30px;">
     <h3>设置</h3>

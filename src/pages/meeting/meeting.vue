@@ -1,9 +1,3 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Date: 2023-05-19 13:03:51
- * @LastEditTime: 2023-07-09 11:05:35
--->
 <template>
   <div class="meeting">
     <div class="aside">

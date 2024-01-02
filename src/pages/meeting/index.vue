@@ -1,9 +1,3 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Date: 2023-04-09 18:29:19
- * @LastEditTime: 2023-07-19 09:35:56
--->
 <template>
   <div class="parent">
     <div class="aside">

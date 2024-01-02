@@ -1,9 +1,3 @@
-<!--
- * @Descripttion: 框架
- * @version: 
- * @Date: 2023-04-09 18:29:19
- * @LastEditTime: 2023-07-09 10:55:40
--->
 <template>
   <el-container style="height: 100vh; overflow: hidden">
     <el-aside
